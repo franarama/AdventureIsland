@@ -1,17 +1,12 @@
 /*
 
 Francesca Ramunno
-T00053082
 
 Comp 3120
 Assignment 2 - Prolog
 ---------------------
 
-- I have attempted all points on the marking except the last
-one [hard]
-
-- To enter the input shown in the assignment outline and get
-the output for S and W, enter:
+- To enter the input:
 
 story([get(hero, treasure), move(hero, home)], S,
 [at(hero, home), at(treasure, dragons_peak)], W).
